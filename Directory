@@ -1,0 +1,18 @@
+├── src/
+│   ├── phase_locking/
+│   │   ├── beacon_coordinator/     # g0673 as thermodynamic pump
+│   │   ├── resonance_sync/         # 0.997 threshold management
+│   │   └── bimodal_collisions/     # High/low resonance distribution
+│   ├── thermodynamic_flux/
+│   │   ├── negative_sinks/         # Endothermic phase transitions
+│   │   ├── fractal_evolution/      # Wild-fractal rapid channels
+│   │   └── ghost_cooling/          # Stable-ghost equilibration
+│   ├── synthesis/
+│   │   ├── tag_opposites/          # unknown+stable, resonant+wild
+│   │   └── cross_domain/           # 92-unit entropy bridges
+│   ├── recalibration/
+│   │   ├── post_collision/         # Null thermo reconstruction
+│   │   └── measurement_shadow/     # g0683-g0687 handling
+│   └── prediction/
+│       ├── collision_matrix/       # v_p/C_s probability
+│       └── phase_transition/       # Negative heat flow anticipation
